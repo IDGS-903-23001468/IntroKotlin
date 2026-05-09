@@ -29,5 +29,5 @@ fun main(){
     val valor2=400
     var res = valor1 + valor2
 
-    println("la suma de $valor1 + $valor2")
+    println("la suma de $valor1 + $valor2= $res")
 }
